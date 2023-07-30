@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=C&logoColor=white" />
  	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
-<div aglin="center">
+<div align="center">
 	<h3>✨ My Backjoon Profile✨</h3>
 </div>
 [![Solved.ac
