@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeonju's%20Github&fontSize=90)
-
 <div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeonju's%20Github&fontSize=90" />
 	<h3>📚 Tech Stack 📚</h3>
 	<h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
