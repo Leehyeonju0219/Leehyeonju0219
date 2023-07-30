@@ -12,18 +12,18 @@
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<h4>🛠 Tools 🛠</h4>
-	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=C&logoColor=white" />
- 	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=githubb&logoColor=white" />
 	<br>
 	<br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
