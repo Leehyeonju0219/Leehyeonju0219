@@ -9,6 +9,13 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=C&logoColor=white" />
+	<h4>🛠 Tools 🛠</h4>
+	
 </div>
 
 <!--
