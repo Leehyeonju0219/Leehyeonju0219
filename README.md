@@ -22,8 +22,8 @@
 <div align="center">
 	<h3>✨ My Backjoon Profile✨</h3>
 </div>
-[![Solved.ac
-wkdal3512](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512)](https://solved.ac/wkdal3512)
+![Solved.ac
+wkdal3512](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512)(https://solved.ac/wkdal3512)
 
 <!--
 **Leehyeonju0219/Leehyeonju0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
