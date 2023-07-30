@@ -1,5 +1,9 @@
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeonju's%20Github&fontSize=90" />
+	<br>
+	<h3>⏰ Today ⏰Today</h3>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeehyeonju0219&count_bg=%23FCAEAE&title_bg=%23FF6666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<h4>✏ Platforms&Languages ✏</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
