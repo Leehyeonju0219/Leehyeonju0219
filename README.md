@@ -1,7 +1,5 @@
-<div>
-	<h1>Hyeonju</h1>
-</div>
-<div align="left">
+<div align="center">
+	<h1>Hi, I am Hyeonju LEE😊</h1>
 	<br>
 	<h3>⏰ Today ⏰</h3>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeehyeonju0219&count_bg=%23FCAEAE&title_bg=%23FF6666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -27,7 +25,7 @@
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=C&logoColor=white" />
  	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=Java&logoColor=white" />
 	<br>
-	<h3 align="right">🎖 Baekjoon Profile 🎖</h3>
-	<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
+	<h3>🎖 Baekjoon Profile 🎖</h3>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
 </div>
 
