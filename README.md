@@ -26,6 +26,6 @@
  	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=Java&logoColor=white" />
 	<br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
-	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
 </div>
 
