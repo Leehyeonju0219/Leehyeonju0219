@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonju's Github&fontSize=90" />
 
 <!--
 **Leehyeonju0219/Leehyeonju0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
