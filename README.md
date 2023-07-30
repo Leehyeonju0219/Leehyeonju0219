@@ -16,6 +16,7 @@
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=C&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=C&logoColor=white" />
  	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=Java&logoColor=white" />
 </div>
