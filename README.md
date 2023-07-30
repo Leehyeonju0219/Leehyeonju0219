@@ -27,5 +27,5 @@
 	<br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512)](https://solved.ac/wkdal3512)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512)](https://solved.ac/wkdal3512/)
 
