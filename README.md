@@ -26,6 +26,7 @@
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
  	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<br>
 	<br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
