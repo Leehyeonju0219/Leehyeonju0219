@@ -3,12 +3,13 @@
 	<h4>"I am a developer committed to responsible challenges, constantly striving for growth."</h4>
 	<h3>👉 About Me 👈</h3>
 	
-| Period            | Activity                                        |
-|-------------------|-------------------------------------------------|
-| 2022.03 ~ 2024.08 | Majoring Software, at DKU                       |
-| 2023.01 ~ 2023.06 | Working as Intern, at Wins the IT Security Corp |
-| 2024.02           | Samsung Financial Academy                       |
-| 2024.03 ~         | Sinhan Pro Digital Academy                      |
+| Period            | Activity                                                |
+|-------------------|---------------------------------------------------------|
+| 2022.03 ~ 2024.08 | Majoring Software, at DKU                               |
+| 2022.09 ~ 2022.11 | Volunteering as Python Teacher, at After School Academy |
+| 2023.01 ~ 2023.06 | Working as Intern, at Wins the IT Security Corp         |
+| 2024.02           | Samsung Financial Academy                               |
+| 2024.03 ~         | Sinhan Pro Digital Academy                              |
 	
  <h3>⏰ Today ⏰</h3>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeehyeonju0219&count_bg=%23FCAEAE&title_bg=%23FF6666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -37,8 +38,14 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<br>
+ <br>
  	<h3>🧐 My Project 🧐</h3>
-	<br>
+  
+| Name     | Period            | Role                  | Description                                                               | Link                               |
+|----------|-------------------|-----------------------|---------------------------------------------------------------------------|------------------------------------|
+| Modi     | 2023.07 ~ 2024.03 | PL, Backend Developer | study management mobile app.                                              | https://github.com/studyManagement |
+| 마음일기 | 2023.09 ~ 2023.12 | PM, Backend Developer | A healing diary app for easy daily logging and expressing inner thoughts. | https://github.com/maumDiary       |
+<br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
 </div>
