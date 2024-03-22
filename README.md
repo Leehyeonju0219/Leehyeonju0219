@@ -1,6 +1,16 @@
 <div align="center">
 	<h1>Hi, I'm Hyeonju LEE😊</h1>
+	<h4>"I am a developer committed to responsible challenges, constantly striving for growth."</h4>
 	<br>
+	<h3>👉 About Me 👈</h3>
+	<div>
+		| Period            | Activity                                         |
+		|-------------------|--------------------------------------------------|
+		| 2022.03 ~ 2024.08 | Majoring Software, at DKU                        |
+		| 2023.01 ~ 2023.06 | Working as Intern, at Wins the IT Security Corp. |
+		| 2024.02           | Samsung Financial Academy                        |
+		| 2024.03 ~         | Sinhan Pro Digital Academy                       |
+	</div>
 	<h3>⏰ Today ⏰</h3>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeehyeonju0219&count_bg=%23FCAEAE&title_bg=%23FF6666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 	<br>
