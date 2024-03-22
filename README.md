@@ -41,10 +41,10 @@
  <br>
  	<h3>🧐 My Project 🧐</h3>
   
-| Name     | Period            | Role                  | Description                                                               | Link                               |
+| Project Name     | Period            | Role                  | Description                                                               | Github Link                               |
 |----------|-------------------|-----------------------|---------------------------------------------------------------------------|------------------------------------|
-| Modi     | 2023.07 ~ 2024.03 | PL, Backend Developer | study management mobile app.                                              | https://github.com/studyManagement |
-| 마음일기 | 2023.09 ~ 2023.12 | PM, Backend Developer | A healing diary app for easy daily logging and expressing inner thoughts. | https://github.com/maumDiary       |
+| Modi     | 2023.07 ~ 2024.03 | PL, Backend Developer | study management mobile app.                                              | [Modi](https://github.com/studyManagement) |
+| 마음일기 | 2023.09 ~ 2023.12 | PM, Backend Developer | A healing diary app for easy daily logging and expressing inner thoughts. | [마음일기](https://github.com/maumDiary)       |
 <br>
 	<h3>🎖 Baekjoon Profile 🎖</h3>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
