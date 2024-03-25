@@ -2,14 +2,32 @@
 	<h1>Hi, I'm Hyeonju LEE😊</h1>
 	<h4>"I am a developer committed to responsible challenges, constantly striving for growth."</h4>
 	<h3>👉 About Me 👈</h3>
-	
-| Period            | Activity                                                |
-|-------------------|---------------------------------------------------------|
-| 2022.03 ~ 2024.08 | Majoring Software, at DKU                               |
-| 2022.09 ~ 2022.11 | Volunteering as Python Teacher, at After School Academy |
-| 2023.01 ~ 2023.06 | Working as Intern, at Wins the IT Security Corp         |
-| 2024.02           | Samsung Financial Academy                               |
-| 2024.03 ~         | Shinhan Pro Digital Academy                              |
+<table>
+    <tr>
+      <th scope="col">Period</td>
+      <th scope="col">Activity</td>
+    </tr>
+    <tr>
+      <td>2022.03 ~ 2024.08</td>
+      <td>Majoring Software, at DKU</td>
+    </tr>
+    <tr>
+      <td>2022.09 ~ 2022.11</td>
+      <td>Volunteering as Python Teacher, at After School Academy</td>
+    </tr>
+    <tr>
+      <td>2023.01 ~ 2023.06</td>
+      <td>Working as Intern, at Wins the IT Security Corp</td>
+    </tr>
+    <tr>
+      <td>2024.02</td>
+      <td>Samsung Financial Academy</td>
+    </tr>
+    <tr>
+      <td>2024.03 ~ </td>
+      <td>Shinhan Pro Digital Academy</td>
+    </tr>
+  </table>
 	
  <h3>⏰ Today ⏰</h3>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeehyeonju0219&count_bg=%23FCAEAE&title_bg=%23FF6666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -40,11 +58,30 @@
 	<br>
  <br>
  	<h3>🧐 My Project 🧐</h3>
-  
-| Project Name     | Period            | Role                  | Description                                                               | Github Link                               |
-|----------|-------------------|-----------------------|---------------------------------------------------------------------------|------------------------------------|
-| Modi     | 2023.07 ~ 2024.03 | PL, Backend Developer | study management mobile app.                                              | [Modi](https://github.com/studyManagement) |
-| 마음일기 | 2023.09 ~ 2023.12 | PM, Backend Developer | A healing diary app for easy daily logging and expressing inner thoughts. | [마음일기](https://github.com/maumDiary)       |
+
+  <table>
+    <tr>
+      <th scope="col">Project Name</td>
+      <th scope="col">Period</td>
+      <th scope="col">Role</td>
+      <th scope="col">Description</td>
+      <th scope="col">Github Link</td>
+    </tr>
+    <tr>
+      <td>Modi</td>
+      <td>2023.07 ~ 2024.03</td>
+      <td>PL, Backend Developer</td>
+      <td>study management mobile app.</td>
+      <td>https://github.com/studyManagement</td>
+    </tr>
+    <tr>
+      <td>마음일기</td>
+      <td>2023.09 ~ 2023.12</td>
+      <td>PM, Backend Developer</td>
+      <td>A healing diary app for easy daily logging and expressing inner thoughts.</td>
+      <td>https://github.com/maumDiary</td>
+    </tr>
+  </table>
 <br>
 	<h3>🎖 My Stat 🎖</h3>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Leehyeonju0219&show_icons=true&theme=ambient_gradient" width="400px">
