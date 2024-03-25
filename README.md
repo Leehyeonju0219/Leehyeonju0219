@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
- 	<img src="https://img.shields.io/badge/GitGub-181717?style=flat&logo=github&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<br>
@@ -46,7 +46,7 @@
 | Modi     | 2023.07 ~ 2024.03 | PL, Backend Developer | study management mobile app.                                              | [Modi](https://github.com/studyManagement) |
 | 마음일기 | 2023.09 ~ 2023.12 | PM, Backend Developer | A healing diary app for easy daily logging and expressing inner thoughts. | [마음일기](https://github.com/maumDiary)       |
 <br>
-	<h3>🎖 Baekjoon Profile 🎖</h3>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">
+	<h3>🎖 My Stat 🎖</h3>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdal3512">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Leehyeonju0219&show_icons=true&theme=ambient_gradient" width="400px">
 </div>
 
