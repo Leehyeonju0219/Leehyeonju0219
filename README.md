@@ -72,14 +72,14 @@
       <td>2023.07 ~ 2024.03</td>
       <td>PL, Backend Developer</td>
       <td>study management mobile app.</td>
-      <td>https://github.com/studyManagement</td>
+      <td><a href="https://github.com/studyManagement">Modi Repo</a></td>
     </tr>
     <tr>
       <td>마음일기</td>
       <td>2023.09 ~ 2023.12</td>
       <td>PM, Backend Developer</td>
       <td>A healing diary app for easy daily logging and expressing inner thoughts.</td>
-      <td>https://github.com/maumDiary</td>
+      <td><a href="https://github.com/maumDiary">마음일기 Repo</a></td>
     </tr>
   </table>
 <br>
