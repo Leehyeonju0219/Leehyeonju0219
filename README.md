@@ -72,14 +72,35 @@
       <td>2023.07 ~ 2024.03</td>
       <td>PL, Backend Developer</td>
       <td>study management mobile app.</td>
-      <td><a href="https://github.com/studyManagement">Modi Repo</a></td>
+      <td><a href="https://github.com/studyManagement">Modi Org</a></td>
     </tr>
     <tr>
-      <td>마음일기</td>
+      <td>마음일기 ver.1</td>
       <td>2023.09 ~ 2023.12</td>
       <td>PM, Backend Developer</td>
       <td>A healing diary app for easy daily logging and expressing inner thoughts.</td>
-      <td><a href="https://github.com/maumDiary">마음일기 Repo</a></td>
+      <td><a href="https://github.com/maumDiary">마음일기 Org</a></td>
+    </tr>
+    <tr>
+      <td>마음일기 ver.2</td>
+      <td>2024.03 ~ 2024.08</td>
+      <td>PM, Designer, FullStack Developer</td>
+      <td>A healing diary app for easy daily logging and expressing inner thoughts.</td>
+      <td><a href="https://github.com/MaumDiaryApp">마음일기 Org</a></td>
+    </tr>
+    <tr>
+      <td>프디푸디</td>
+      <td>2024.05 ~ 2024.05</td>
+      <td>Designer, FullStack Developer</td>
+      <td>Seongsu restaurant recommendation web service for PDA students.</td>
+      <td><a href="https://github.com/PDI-foodi">프디푸디 Org</a></td>
+    </tr>
+    <tr>
+      <td>몽키랭키</td>
+      <td>2024.06 ~ 2024.06</td>
+      <td>Designer, FullStack Developer</td>
+      <td>Stock ranking web service, based on the various indicators.</td>
+      <td><a href="https://github.com/oogong">오공 Org</a></td>
     </tr>
   </table>
 <br>
